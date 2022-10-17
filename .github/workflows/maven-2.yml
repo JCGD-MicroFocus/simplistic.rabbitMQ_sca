@@ -64,7 +64,7 @@ jobs:
       #with:
       #  export_config: /config/SSCToGitHub.yml
       #  ssc_baseUrl: http://<Public_IP>:8180/ssc
-      #  ssc_authToken: 5700ab1e-0af3-46d0-8289-e539540c3439
+      #  ssc_authToken: 402e8adb-762b-4959-80d3-6833d36031d2
       #  ssc_version_name: simplisticrabbitmq:11.0
       #  # Or use ssc_version_id: 1234
       run: |
